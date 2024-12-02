@@ -11,19 +11,19 @@ Create a Django-admin Interface.
 Create a static folder and inert HTML code.
 
 ## STEP 3
-Create a simple table using <table> tag in html.
+Create a simple table using `<table>` tag in html.
 
 ## STEP 4
-Add header row using <th> tag.
+Add header row using `<th>` tag.
 
 ## STEP 5
-Add your timetable using <td> tag.
+Add your timetable using `<td>` tag.
 
 ## STEP 6
 Execute the program using runserver command.
 
 # PROGRAM
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -74,7 +74,7 @@ Execute the program using runserver command.
 <body>
     <img src="C:\Users\admin\Downloads\WhatsApp Image 2024-10-19 at 11.17.23 AM.jpeg">
     <h1>SLOT TIME TABLE - KANNAN R (24900979)</h1>
-'''
+
     <table>
         <tr>
             <th>Day/time</th>
@@ -122,7 +122,7 @@ Execute the program using runserver command.
             <td colspan="4">FREE SLOT</td>
         </tr>
     </table>
-'''
+
     <table>
         <tr>
             <th>s.no</th>
@@ -177,7 +177,7 @@ Execute the program using runserver command.
     </table>
 
 </body>
-</html>
+</html>```
 # OUTPUT
 ![Screenshot 2024-12-02 144639](https://github.com/user-attachments/assets/1bc8fe96-193b-4d17-9e64-1c3deadf9060)
 ![Screenshot 2024-12-02 144656](https://github.com/user-attachments/assets/624d6101-b2d2-4292-922a-75d702e53984)
